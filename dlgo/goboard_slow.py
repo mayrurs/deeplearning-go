@@ -1,4 +1,4 @@
-from gotypes import Player
+from dlgo.gotypes import Player
 import copy
 
 class Move():
